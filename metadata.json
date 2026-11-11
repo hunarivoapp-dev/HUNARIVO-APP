@@ -1,0 +1,6 @@
+{
+  "name": "HUNARIVO — Skill Swap & Peer Learning Platform",
+  "description": "Peer-to-peer skill swap, knowledge exchange, and mentorship platform with mutual matching, flexible onboarding, and Pakistan local payment integrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
